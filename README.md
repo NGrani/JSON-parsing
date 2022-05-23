@@ -12,6 +12,6 @@
 
 Скриншоты:
 
-![]()
-![]()
-![]()
+![](https://github.com/NGrani/JSON-parsing/blob/main/Assets/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-05-23%20at%2013.21.58.png)
+![](https://github.com/NGrani/JSON-parsing/blob/main/Assets/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-05-23%20at%2013.22.05.png)
+
